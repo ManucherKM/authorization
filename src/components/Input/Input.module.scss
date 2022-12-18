@@ -1,0 +1,26 @@
+.input__default {
+    padding: 5px 10px;
+    border: 2px solid rgb(36, 157, 238);
+    background: none;
+    color: rgb(36, 157, 238);
+    width: 100%;
+    outline: none;
+}
+
+.input__err {
+    padding: 5px 10px;
+    border: 2px solid rgb(255, 55, 55);
+    background: none;
+    color: rgb(36, 157, 238);
+    width: 100%;
+    outline: none;
+}
+
+.input__success {
+    padding: 5px 10px;
+    border: 2px solid rgb(67, 255, 61);
+    background: none;
+    color: rgb(36, 157, 238);
+    width: 100%;
+    outline: none;
+}
